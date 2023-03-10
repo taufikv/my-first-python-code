@@ -9,4 +9,5 @@ Semua sintaksis dasar bahasa pemograman terdiri dari:
 print('Ibu berkata, "pergi ke toko"')
 print('Ahmad menjawab, "Baik, apa yang harus saya lakukan di toko?"')
 print('Ibu menjawab, "Beli satu botol susu, dan jika ada telur beli 6"')
-print('Ibu menjawab, "Maka Ahmad pergi ke toko"')
+print("Maka Ahmad pergi ke toko")
+print('Dan mulai ')
