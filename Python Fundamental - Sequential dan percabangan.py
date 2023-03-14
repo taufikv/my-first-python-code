@@ -14,6 +14,8 @@ print("Dan mulai")
 
 print("=" * 10)
 
+# Percabangan
+
 print('\nIbu berkata "Beli 1 botol susu dan 6 butir telur"')
 print('Anak menjawab "Ok"')
 print('Anak pergi ke toko')
